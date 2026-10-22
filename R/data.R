@@ -1,8 +1,8 @@
 # This file documents data
 
-#' @name BirdFlowModels
-#' @rdname BirdFlowModels
-#' @aliases BirdFlowModels
+#' @name BirdFlowExamples
+#' @rdname BirdFlowExamples
+#' @aliases BirdFlowExamples
 #' @aliases amewoo
 #' @aliases rewbla
 #' @title Birdflow Example Models
@@ -12,13 +12,14 @@
 #'
 #' @format `BirdFlow` model
 #'
-#' @source Trained on eBird Status and Trends 2019 and 2021 Data.
+#' @source Trained on eBird Status and Trends 2023 Data.
 #'
-#' @references Fink, D., T. Auer, A. Johnston, M. Strimas-Mackey, S. Ligocki, O.
-#' Robinson, W. Hochachka, L. Jaromczyk, A. Rodewald, C. Wood, I. Davies, A.
-#' Spencer. 2022. eBird Status and Trends, Data Version: 2021; Released: 2022.
-#' Cornell Lab of Ornithology, Ithaca, New York.
-#' https://doi.org/10.2173/ebirdst.2021
+#' @references  Fink, D., T. Auer, A. Johnston, M. Strimas-Mackey, S. Ligocki, O. Robinson,
+#' W. Hochachka, L. Jaromczyk, C. Crowley, K. Dunham, A. Stillman, C. Davis, M. Stokowski,
+#' P. Sharma, V. Pantoja, D. Burgin, P. Crowe, M. Bell, S. Ray, I. Davies, V. Ruiz-Gutierrez,
+#' C. Wood, A. Rodewald. 2024.
+#' eBird Status and Trends, Data Version: 2023;
+#' Released: 2025. Cornell Lab of Ornithology, Ithaca, New York. https://doi.org/10.2173/WZTW8903
 #' @seealso [BirdFlowR::load_model()] will load a vetted model from a
 #' BirdFlow model collection.  `BirdFlowR::load_collection_index()` will
 #' return a data frame with information on available models.

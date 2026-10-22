@@ -19,7 +19,7 @@ tools::resaveRdaFiles(amewoo_rda_file)
 
 tools::checkRdaFiles(amewoo_rda_file)$compress
 
-rewbla <- BirdFlowModels::rewbla
+rewbla <- BirdFlowExamples::rewbla
 
 
 # Add new columns to dates (that are present in the rewbla model)
