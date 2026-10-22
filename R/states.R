@@ -15,7 +15,7 @@
 #' class **data.frame** and has columns:
 #' \describe{
 #'   \item{name}{State name}
-#'   \item{geometry}{Contains polyon information}
+#'   \item{geometry}{Contains polygon information}
 #'
 #'  The code below was used to create this object:
 #'  ```

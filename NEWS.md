@@ -1,3 +1,12 @@
+## BirdFlowExamples 0.0.1.9001
+2026-10-22
+
+* Renamed package from `BirdFlowModels` to `BirdFlowExamples`. The data
+  object names (`amewoo`, `rewbla`, `rewbla_observations`,
+  `rewbla_intervals`, `states`) are unchanged.
+
+* Refit `amewoo` and `rewbla` and reduced their file size.
+
 ## BirdFlowModels 0.0.2.9003
 2025-04-08 
 
