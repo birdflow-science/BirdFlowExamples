@@ -1,7 +1,7 @@
-# BirdFlowModels
+# BirdFlowExamples
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/birdflow-science/BirdFlowModels/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/birdflow-science/BirdFlowModels/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/birdflow-science/BirdFlowExamples/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/birdflow-science/BirdFlowExamples/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 This is a "Data" R package that contains a fitted BirdFlow model for use with 
@@ -26,14 +26,14 @@ the data in the package will change frequently.
 Use the code below to install from github
 
 ```{r}
-devtools::install_github("birdflow-science/BirdFlowModels")
+devtools::install_github("birdflow-science/BirdFlowExamples")
 ```
 ## Use
 
 After loading this package the dataset will be available for use.
 
 ```{r}
-library(BirdFlowModels)
+library(BirdFlowExamples)
 library(BirdFlowR)
 print(amewoo)
 species(amewoo)
